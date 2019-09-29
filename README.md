@@ -1,39 +1,17 @@
-hahahhhahahahahha
+卡戎 （太阳系中的一个天体） 编辑 
+卡戎是矮行星冥王星五颗已知天然卫星中最大的一颗，也叫冥卫一，大陆译作卡戎（中国台湾译作凯伦），平均半径为606km，于1978年在美国华盛顿特区的海军天文台被发现。卡戎的直径是冥王星的一半，质量是冥王星质量的八分之一，与冥王星相比，相当于是这个矮行星的一个非常大的月亮。名称源于罗马神话中冥王普路托的役卒卡戎，向亡魂索取金钱为他们划船渡过冥河。天文学家在2005年发现另外两颗冥王星的卫星：冥卫二和冥卫三，2011年7月哈勃太空望远镜发现了第四颗卫星，临时命名为S/2011 P4，2012年7月11日又宣布发现了第五颗卫星S/2012 P1。依现行的定义，冥卫一是冥王星最大的卫星，可与冥王星组成双矮行星。新视野号于2015年7月14日飞掠冥王星和卡戎，也是唯一拜访过冥王星的探测器。
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Charon001/Charon001.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Charon001/Charon001.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+哈哈HH哈哈H哈哈哈H,你是煞笔。
